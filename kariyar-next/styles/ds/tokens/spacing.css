@@ -1,0 +1,10 @@
+:root{
+--spacing-unit:4px;
+--spacing-4:4px;--spacing-8:8px;--spacing-12:12px;--spacing-16:16px;--spacing-20:20px;--spacing-24:24px;--spacing-28:28px;--spacing-32:32px;--spacing-36:36px;--spacing-40:40px;--spacing-44:44px;--spacing-48:48px;--spacing-52:52px;--spacing-56:56px;--spacing-80:80px;--spacing-120:120px;
+--page-max-width:1200px;
+--section-gap:80px;--section-gap-lg:120px;
+--card-padding:24px;
+--element-gap:8px;--element-gap-lg:16px;
+--radius-xl:12px;--radius-2xl:16px;--radius-2xl-2:20px;--radius-3xl:24px;--radius-3xl-2:32px;--radius-full:1000px;--radius-full-2:9999px;
+--radius-tabs:9999px;--radius-cards:24px;--radius-inputs:9999px;--radius-buttons:9999px;--radius-smallcards:20px;--radius-largepanels:32px;
+}

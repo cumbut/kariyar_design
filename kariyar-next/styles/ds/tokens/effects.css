@@ -1,0 +1,9 @@
+:root{
+--shadow-sm:rgba(169, 169, 169, 0.08) 0px 4px 8px 0px;
+--shadow-subtle:rgb(83, 156, 242) 0px 0px 0px 2px;
+--shadow-panel:var(--shadow-sm);
+--ring-focus:var(--shadow-subtle);
+--ease-standard:cubic-bezier(0.2, 0, 0, 1); /* @kind other */
+--duration-fast:150ms; /* @kind other */
+--duration-base:200ms; /* @kind other */
+}
